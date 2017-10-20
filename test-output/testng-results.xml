@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Verification Passed for Sale Banner on Home page.]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6057" started-at="2017-10-19T16:44:18Z" finished-at="2017-10-19T16:44:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6057" started-at="2017-10-19T16:44:18Z" finished-at="2017-10-19T16:44:24Z">
+      <class name="com.ebfs.testCases.Home_Page_Scenarios">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ebfs.testCases.Home_Page_Scenarios@3fee9989]" name="beforeMethod" is-config="true" duration-ms="5887" started-at="2017-10-19T12:44:18Z" finished-at="2017-10-19T12:44:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.ebfs.testCases.Home_Page_Scenarios@3fee9989]" name="f" duration-ms="142" started-at="2017-10-19T12:44:24Z" finished-at="2017-10-19T12:44:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Verification Passed for Sale Banner on Home page.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ebfs.testCases.Home_Page_Scenarios@3fee9989]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-10-19T12:44:24Z" finished-at="2017-10-19T12:44:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.ebfs.testCases.Home_Page_Scenarios -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,37 @@
+2017-10-19 12:42:52,147 INFO  [Log] **************************************************************************************** 
+2017-10-19 12:42:52,147 INFO  [Log] **************************************************************************************** 
+2017-10-19 12:42:52,148 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Home_Page_Scenarios       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-19 12:42:52,148 INFO  [Log] **************************************************************************************** 
+2017-10-19 12:42:52,148 INFO  [Log] **************************************************************************************** 
+2017-10-19 12:42:52,711 INFO  [Log] Excel sheet opened 
+2017-10-19 12:42:52,711 INFO  [Log] Total number of Row used return as < 1 >. 
+2017-10-19 12:42:53,615 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Unable to find a matching set of capabilities
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'C02SF6TCFVH5', ip: 'fe80:0:0:0:14a6:1c92:c82d:89e7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_111'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: stack backtrace:
+   0:        0x102adfa8e - backtrace::backtrace::trace::h69682bcb53decaf6
+   1:        0x102adfacc - backtrace::capture::Backtrace::new::hdc9d731a957304a6
+   2:        0x102a10575 - webdriver::error::WebDriverError::new::he392a72ba46217df
+   3:        0x102a11635 - geckodriver::marionette::MarionetteHandler::create_connection::hc09196342b760e35
+   4:        0x1029f77d4 - _$LT$webdriver..server..Dispatcher$LT$T$C$$u20$U$GT$$GT$::run::hfda25a6dc0b512aa
+   5:        0x1029cf645 - std::sys_common::backtrace::__rust_begin_short_backtrace::h95009c1d3a320838
+   6:        0x1029d711d - std::panicking::try::do_call::h8c5f07f1fc714fb2
+   7:        0x102b909cc - __rust_maybe_catch_panic
+   8:        0x1029ecf55 - _$LT$F$u20$as$u20$alloc..boxed..FnBox$LT$A$GT$$GT$::call_box::h6a96e09ff4d37bff
+   9:        0x102b8cc3b - std::sys::imp::thread::Thread::new::thread_start::h823686b907c11c46
+  10:     0x7fff9049593a - _pthread_body
+  11:     0x7fff90495886 - _pthread_start 
+2017-10-19 12:42:53,652 ERROR [Log] Sale Banner link is not found on the Home Page 
+2017-10-19 12:42:53,741 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2017-10-19 12:44:18,655 INFO  [Log] **************************************************************************************** 
+2017-10-19 12:44:18,655 INFO  [Log] **************************************************************************************** 
+2017-10-19 12:44:18,655 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Home_Page_Scenarios       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-19 12:44:18,655 INFO  [Log] **************************************************************************************** 
+2017-10-19 12:44:18,655 INFO  [Log] **************************************************************************************** 
+2017-10-19 12:44:19,112 INFO  [Log] Excel sheet opened 
+2017-10-19 12:44:19,112 INFO  [Log] Total number of Row used return as < 1 >. 
+2017-10-19 12:44:20,584 INFO  [Log] New driver instantiated 
+2017-10-19 12:44:20,594 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-10-19 12:44:24,467 INFO  [Log] Web application launched successfully 
+2017-10-19 12:44:24,524 INFO  [Log] Sale Banner link is found on the Home Page 
