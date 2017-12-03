@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Home Page Scenarios">
+
+	 <test name="Home Page Scenarios">
+	    <classes>
+	      <class name="com.ebfs.testCases.Home_Page_Scenarios"/>
+	      
+	    </classes>
+	  </test>
+
+  
+</suite>
