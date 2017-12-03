@@ -11,6 +11,7 @@ import com.ebfs.utilities.Constant;
 import com.ebfs.utilities.ExcelUtils;
 import com.ebfs.utilities.Log;
 import com.ebfs.utilities.Utils;
+import com.ebfs.appModules.HeaderModules;
 import com.ebfs.appModules.Verify_Sell_Banner;
 
 
@@ -53,7 +54,7 @@ public class Home_Page_Scenarios {
 
   
   @Test
-  public void f() throws Exception {
+  public void Verif_Sell_Banner() throws Exception {
 	  
 	  try{
 		  
@@ -80,9 +81,30 @@ public class Home_Page_Scenarios {
 	  }
 	  
   }
+  
+  @Test
+  public void Verify_Call_Us_Now_Span()throws Exception{
+	  try {
+		  	  HeaderModules.call_us_now();
+		  
+			  if(BaseClass.bResult == true) {
+				  ExcelUtils.setCellData("Pass", iTestCaseRow, Constant.Col_Result);
+			  }else {
+				  throw new Exception("Test Case Failed because of Verification");
+			  }
+			  
+	  }catch(Exception e){
+		  ExcelUtils.setCellData("Fail", iTestCaseRow, Constant.Col_Result);
+		  Utils.takeScreenshot(driver, sTestCaseName);
+		  Log.error(e.getMessage());
+		  throw (e);
+	  }
+  }
 
   @AfterMethod
   public void afterMethod() {
+	  
+	  driver.close();
   }
 
 }

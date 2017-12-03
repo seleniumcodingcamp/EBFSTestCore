@@ -25,6 +25,20 @@ public class Home_Page extends BaseClass{
        	return element;
     }
     
+    
+    
+    public static WebElement span_call_us_now()throws Exception {
+    	try {
+    		element = driver.findElement(By.className("shop-phone"));
+    		Log.info("Call us Now Span is found on the Home Page");
+    	}catch(Exception e) {
+    		Log.error("Call Us Now Sapn is not found on the Home Page");
+    		throw(e);
+    	}
+    	return element;
+    	
+    }
+    
 //    public static WebElement lnk_MyAccount() throws Exception{
 //        try{ 
 //        	 element = driver.findElement(By.xpath(".//*[@id='account']/a"));

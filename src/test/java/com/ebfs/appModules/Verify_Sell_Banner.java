@@ -1,11 +1,14 @@
 package com.ebfs.appModules;
 
 import org.testng.Reporter;
+import org.testng.annotations.Test;
 
 import com.ebfs.pageObjects.BaseClass;
 import com.ebfs.pageObjects.Home_Page;
 
 public class Verify_Sell_Banner {
+	
+	
 	public static void Execute() throws Exception{
 		
 		if(Home_Page.lnk_Sale() != null){

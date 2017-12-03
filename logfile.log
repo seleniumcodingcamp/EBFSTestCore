@@ -35,3 +35,97 @@ remote stacktrace: stack backtrace:
 2017-10-19 12:44:20,594 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
 2017-10-19 12:44:24,467 INFO  [Log] Web application launched successfully 
 2017-10-19 12:44:24,524 INFO  [Log] Sale Banner link is found on the Home Page 
+2017-12-03 17:24:34,152 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:24:34,154 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:24:34,154 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Home_Page_Scenarios       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-12-03 17:24:34,154 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:24:34,154 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:24:35,159 INFO  [Log] Excel sheet opened 
+2017-12-03 17:24:35,160 INFO  [Log] Total number of Row used return as < 1 >. 
+2017-12-03 17:24:35,309 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The driver executable does not exist: F:\eclipse-workspace\EBFSTestCoreresources\chromedriver.exe 
+2017-12-03 17:24:35,351 ERROR [Log] Sale Banner link is not found on the Home Page 
+2017-12-03 17:24:35,472 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2017-12-03 17:31:00,505 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:31:00,505 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:31:00,505 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Home_Page_Scenarios       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-12-03 17:31:00,506 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:31:00,506 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:31:00,999 INFO  [Log] Excel sheet opened 
+2017-12-03 17:31:00,999 INFO  [Log] Total number of Row used return as < 1 >. 
+2017-12-03 17:31:01,049 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The driver executable does not exist: F:\eclipse-workspace\EBFSTestCoreresources\chromedriver.exe 
+2017-12-03 17:31:01,083 ERROR [Log] Sale Banner link is not found on the Home Page 
+2017-12-03 17:31:01,152 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2017-12-03 17:31:55,086 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:31:55,087 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:31:55,087 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Home_Page_Scenarios       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-12-03 17:31:55,087 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:31:55,087 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:31:55,568 INFO  [Log] Excel sheet opened 
+2017-12-03 17:31:55,568 INFO  [Log] Total number of Row used return as < 1 >. 
+2017-12-03 17:31:55,620 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The driver executable does not exist: F:\eclipse-workspace\EBFSTestCoreresources\chromedriver.exe 
+2017-12-03 17:31:55,650 ERROR [Log] Sale Banner link is not found on the Home Page 
+2017-12-03 17:31:55,720 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2017-12-03 17:46:11,333 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:46:11,334 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:46:11,334 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Home_Page_Scenarios       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-12-03 17:46:11,334 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:46:11,334 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:46:11,889 INFO  [Log] Excel sheet opened 
+2017-12-03 17:46:11,889 INFO  [Log] Total number of Row used return as < 1 >. 
+2017-12-03 17:46:11,957 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The driver executable does not exist: F:\eclipse-workspace\EBFSTestCoreresources\chromedriver.exe 
+2017-12-03 17:46:11,995 ERROR [Log] Sale Banner link is not found on the Home Page 
+2017-12-03 17:46:12,070 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2017-12-03 17:50:02,921 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:50:02,921 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:50:02,921 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Home_Page_Scenarios       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-12-03 17:50:02,921 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:50:02,921 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:50:03,395 INFO  [Log] Excel sheet opened 
+2017-12-03 17:50:03,395 INFO  [Log] Total number of Row used return as < 1 >. 
+2017-12-03 17:50:03,444 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The driver executable does not exist: F:\eclipse-workspace\EBFSTestCore\resources\chromedriver.exe 
+2017-12-03 17:50:03,474 ERROR [Log] Sale Banner link is not found on the Home Page 
+2017-12-03 17:50:03,546 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2017-12-03 17:52:45,055 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:52:45,056 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:52:45,056 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Home_Page_Scenarios       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-12-03 17:52:45,056 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:52:45,056 INFO  [Log] **************************************************************************************** 
+2017-12-03 17:52:45,548 INFO  [Log] Excel sheet opened 
+2017-12-03 17:52:45,548 INFO  [Log] Total number of Row used return as < 1 >. 
+2017-12-03 17:52:52,148 INFO  [Log] New driver instantiated 
+2017-12-03 17:52:52,158 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-12-03 17:52:57,809 INFO  [Log] Web application launched successfully 
+2017-12-03 17:52:57,859 INFO  [Log] Sale Banner link is found on the Home Page 
+2017-12-03 18:35:46,213 INFO  [Log] **************************************************************************************** 
+2017-12-03 18:35:46,214 INFO  [Log] **************************************************************************************** 
+2017-12-03 18:35:46,214 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Home_Page_Scenarios       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-12-03 18:35:46,214 INFO  [Log] **************************************************************************************** 
+2017-12-03 18:35:46,214 INFO  [Log] **************************************************************************************** 
+2017-12-03 18:35:46,701 INFO  [Log] Excel sheet opened 
+2017-12-03 18:35:46,701 INFO  [Log] Total number of Row used return as < 1 >. 
+2017-12-03 18:35:49,516 INFO  [Log] New driver instantiated 
+2017-12-03 18:35:49,525 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-12-03 18:35:54,387 INFO  [Log] Web application launched successfully 
+2017-12-03 18:35:54,445 INFO  [Log] Sale Banner link is found on the Home Page 
+2017-12-03 18:35:54,639 INFO  [Log] **************************************************************************************** 
+2017-12-03 18:35:54,639 INFO  [Log] **************************************************************************************** 
+2017-12-03 18:35:54,639 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Home_Page_Scenarios       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-12-03 18:35:54,639 INFO  [Log] **************************************************************************************** 
+2017-12-03 18:35:54,639 INFO  [Log] **************************************************************************************** 
+2017-12-03 18:35:54,676 INFO  [Log] Excel sheet opened 
+2017-12-03 18:35:54,676 INFO  [Log] Total number of Row used return as < 1 >. 
+2017-12-03 18:35:56,647 INFO  [Log] New driver instantiated 
+2017-12-03 18:35:56,651 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-12-03 18:36:01,169 INFO  [Log] Web application launched successfully 
+2017-12-03 18:36:01,210 INFO  [Log] Call us Now Span is found on the Home Page 
+2017-12-03 18:36:01,373 INFO  [Log] **************************************************************************************** 
+2017-12-03 18:36:01,373 INFO  [Log] **************************************************************************************** 
+2017-12-03 18:36:01,373 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Header_Modules_Scenarios       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-12-03 18:36:01,373 INFO  [Log] **************************************************************************************** 
+2017-12-03 18:36:01,373 INFO  [Log] **************************************************************************************** 
+2017-12-03 18:36:01,404 INFO  [Log] Excel sheet opened 
+2017-12-03 18:36:01,404 INFO  [Log] Total number of Row used return as < 1 >. 
+2017-12-03 18:36:03,380 INFO  [Log] New driver instantiated 
+2017-12-03 18:36:03,386 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-12-03 18:36:08,656 INFO  [Log] Web application launched successfully 
+2017-12-03 18:36:08,679 INFO  [Log] Call us Now Span is found on the Home Page 
