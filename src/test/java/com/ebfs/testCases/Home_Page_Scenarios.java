@@ -88,6 +88,7 @@ public class Home_Page_Scenarios {
 		  	  HeaderModules.call_us_now();
 		  
 			  if(BaseClass.bResult == true) {
+				// If the value of boolean variable is True, then your test is complete pass and do this
 				  ExcelUtils.setCellData("Pass", iTestCaseRow, Constant.Col_Result);
 			  }else {
 				  throw new Exception("Test Case Failed because of Verification");
